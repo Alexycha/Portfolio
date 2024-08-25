@@ -93,23 +93,23 @@ body {
 }
 
 .img-1 {
-    background: url("./images/constellations/1.png") no-repeat 50% 50%;
+    background: url("./images/1.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
 
 .img-2 {
-    background: url("./images/constellations/2.png") no-repeat 50% 50%;
+    background: url("./images/2.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
 .img-3 {
-    background: url("./images/constellations/3.png") no-repeat 50% 50%;
+    background: url("./images/3.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
 .img-4 {
-    background: url("./images/constellations/4.png") no-repeat 50% 50%;
+    background: url("./images/4.png") no-repeat 50% 50%;
     background-size: cover;
 }
 
